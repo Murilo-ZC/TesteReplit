@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="TesteReplit" Database="" Version="10000">
+  <Project Name="aula01" Path="aula01/aula01.project" Active="No"/>
+  <Project Name="aula02" Path="aula02/aula02.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="aula01" ConfigName="Debug"/>
+      <Project Name="aula02" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="aula01" ConfigName="Release"/>
+      <Project Name="aula02" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
